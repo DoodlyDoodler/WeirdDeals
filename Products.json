@@ -1,0 +1,48 @@
+{
+  "companyName": "Weird Deals Inc.",
+  "headOffice": "Barrie, Ontario",
+  "established": 2000,
+  "active": true,
+  "items" : [
+            	{
+            		"Name"			: "Uranium Ore",
+            		"Price"			: "$39.95",
+            		"Description"	: "The ore sample is Naturally Occurring Radioactive Materials (NORM). Uranium Ore samples are useful as check sources for testing Geiger Counters.",
+            		"Features"		: ["Useful for testing Geiger counters", "performing nuclear experiments"],
+            		"Image"			: "uranium-ore.jpg",
+            		"Location"		: {"lat" : "44.40011" , "lng" : "-79.66634"}
+            	},
+            	{
+            		"Name"			: "A suture practice kit",
+            		"Price"			: "$45.95",
+            		"Description"	: "Not quite a game, not quite medical school, this suture training kit will have you fixing up wounds and repairing hems with ease",
+            		"Features"		: ["DURABLE AND HIGH QUALITY", "TESTED BY MEDICAL STUDENTS"],
+            		"Image"			: "suture-practice-kit.jpg",
+            		"Location"		: {"lat" : "44.40011" , "lng" : "-79.66634"}
+            	},
+            	{
+            		"Name"			: "Dill pickle lip balm",
+            		"Price"			: "$11.99",
+            		"Description"	: "Some people want their mouths to be minty fresh, or sweetly scented. And others just want their lips to have the distinct flavor of something that might accompany a pastrami sandwich.",
+            		"Features"		: ["FUNNY GIFT FOR PICKLE LOVERS"],
+            		"Image"			: "dill-pickle-lip-balm.jpg",
+            		"Location"		: {"lat" : "44.40011" , "lng" : "-79.66634"}
+            	},
+            	{
+            		"Name"			: "A baby mop",
+            		"Price"			: "$29.99",
+            		"Description"	: "It's never too early to teach your children about chores, as evidenced by this suit that lets your baby mop the house for you.",
+            		"Features"		: ["Works for any surface "],
+            		"Image"			: "baby-mop.jpg",
+            		"Location"		: {"lat" : "44.40011" , "lng" : "-79.66634"}
+            	},
+            	{
+            		"Name"			: "A Nicolas Cage sequin pillowcase",
+            		"Price"			: "$24.95",
+            		"Description"	: "The only thing better than a festive red sparkly pillowcase is one that morphs into Nicolas Cage's face with the satisfying swipe of your hand.",
+            		"Features"		: ["Precisely printed using eco-friendly water based inks","sublimation printing technology to ensure smoothness" ],
+            		"Image"			: "nicolas-cage-pillow.jpg",
+            		"Location"		: {"lat" : "44.40011" , "lng" : "-79.66634"}
+            	}
+]
+}
